@@ -1,6 +1,6 @@
 {
-  "homepage": "http://butterfly1of4.github.io/portfolio",
-  "name": "front",
+  "homepage": "http://butterfly1of4.github.io/Ultra_Killer_portfolio",
+  "name": "src",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

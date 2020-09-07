@@ -18,7 +18,8 @@ function App() {
         <Portfolio />
         <Languages />
         <About />
-        <Contact /><Footer />
+        <Contact />
+        <Footer />
       </Route>
       <Route path="/Portfolio" exact={true}>
         <Portfolio /></Route>
