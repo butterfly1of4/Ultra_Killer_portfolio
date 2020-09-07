@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Ultra_Killer_portfolio/precache-manifest.31aaa9bfeb78d43b7e636664090f46a8.js"
+  "/Ultra_Killer_portfolio/precache-manifest.43aa02e575f29ef6064e625cfbda5b1c.js"
 );
 
 self.addEventListener('message', (event) => {

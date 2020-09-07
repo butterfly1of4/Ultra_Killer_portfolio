@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "048b171b012c199d82c925b6fc43bea9",
+    "revision": "49adaa2a5a266f452913fe29c30fbfa2",
     "url": "/Ultra_Killer_portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ultra_Killer_portfolio/static/css/2.7f83aeb6.chunk.css"
   },
   {
-    "revision": "e9f396daf3177960fe9d",
+    "revision": "dd7474ad43525b6a7e35",
     "url": "/Ultra_Killer_portfolio/static/css/main.6d21b193.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ultra_Killer_portfolio/static/js/2.15128be1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e9f396daf3177960fe9d",
-    "url": "/Ultra_Killer_portfolio/static/js/main.b73821c9.chunk.js"
+    "revision": "dd7474ad43525b6a7e35",
+    "url": "/Ultra_Killer_portfolio/static/js/main.7d9eb078.chunk.js"
   },
   {
     "revision": "35fdbd963dfb94883585",
